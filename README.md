@@ -1,16 +1,18 @@
-### Hi There, I'm Fikri :smiley:
+<h1 align="center">Hi 👋, I'm fikri :smiley:</h1>
 
-## I'm studying at Sriwijaya University :mortar_board:
-- :zap: I'm an Electrical Engineering student
-- :mag: I'm learning programming language
-- :moneybag: I'm working on a website project using php
-
-<h1 align="center">Hi 👋, I'm fikri</h1>
-<h3 align="center">I'm studying at Sriwijaya University :mortar_board:</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fikr17&label=Profile%20views&color=0e75b6&style=flat" alt="fikr17" /> </p>
+<p align="left"> <img src="https://github.com/Fikr17" alt="fikr17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fikr17" alt="fikr17" /></a> </p>
+
+## I'm studying at Sriwijaya University :mortar_board:
+
+<br />
+
+- :zap: I'm an Electrical Engineering student
+
+- :mag: I'm learning programming language
+
+- :moneybag: I'm working on a website project using php
 
 - 🔭 I’m currently working on **Project TryOut using PHP**
 
@@ -18,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/m. fikri aulian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m. fikri aulian" height="30" width="40" /></a>
-<a href="https://instagram.com/mfikria_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfikria_17" height="30" width="40" /></a>
+<a href="https://id.linkedin.com/in/m-fikri-aulian-283908229/in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m. fikri aulian" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mfikria_17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfikria_17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
